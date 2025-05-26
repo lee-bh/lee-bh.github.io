@@ -1,29 +1,16 @@
-#Lee Byoung Hak
+# Lee Byoung Hak
 
+## designer, educator
+## works at SEOULTECH
+- infomative design
+- web programming
+- HTML/CSS/JS
+- typography
 
-### Markdown
+[leebh.net](https://leebh.net)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+`<h1>Lee Byoung Hak</h1>`
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
